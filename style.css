@@ -1,0 +1,36 @@
+body{
+   background-color: aqua;
+}
+h1{
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 60px;
+    margin-top: 100px;
+    
+}
+.button{
+    text-align: center;
+}
+.item{
+    text-align: center;
+    width: 100px;
+    height: 50px;
+    margin-top: 70px;
+}
+.main{
+    margin-top: 40px;
+    text-align: center;
+}
+.txt{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: large;
+    text-align: center;
+}
+textarea{
+    
+    text-align: center;
+}
+input{
+    width: 400px;
+    text-align: center;
+}
